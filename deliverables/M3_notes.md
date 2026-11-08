@@ -8,7 +8,7 @@
 
 ## 1. Beta手算与推导
 
-待填写
+$x+3$
 
 ## 2. MAP/梯度/Hessian/Laplace推导
 
